@@ -57,3 +57,8 @@ Coverage depends on the ASF records included in the extraction. The status descr
 - [NASA Earth Observatory Natural Event Tracker (EONET)](https://eonet.gsfc.nasa.gov/)
 - [Alaska Satellite Facility (ASF) Search](https://search.asf.alaska.edu/)
 - [Natural Earth](https://www.naturalearthdata.com/)
+
+- ## Dashboard and documentation
+
+- [Power BI Dashboard and Metrics](powerbi/README.md)
+- [Technical Documentation and Data Dictionary (PDF)](nisar-event-coverage-data-dictionary.pdf)
